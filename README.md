@@ -1,4 +1,3 @@
-# navinmandal
 <h1 align="center">Hello there! 👋</h1>
 <p align="center">
   <a href="https://github.com/navin-mandal">
@@ -23,7 +22,6 @@ for partners.
   <img src="https://img.shields.io/badge/Code-Tailwind_CSS-%2338B2AC?style=flat-square&logo=tailwind-css">
   <img src="https://img.shields.io/badge/Code-JavaScript-%23F7DF1E?style=flat-square&logo=javascript">
 </p>
-
 
 ## 📫 Get in Touch
 
